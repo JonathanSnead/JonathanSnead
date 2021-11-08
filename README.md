@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JonathanSnead
+- 👋 Hi, I’m @JonathanSnead - but I go by Nathan
 - 👀 I’m interested in designing apps to fix problems
 - 🌱 I’m currently learning Java with Angular on single page apps and deploying them to servers
 - 💞️ I’m looking to collaborate on new apps that will change how people use software
